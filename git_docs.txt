@@ -1,0 +1,9 @@
+1) git init
+2) git add
+3) git commit -m
+4) git log
+5) git diff file
+6) git checkout file - return to last commit state
+7) git remote add origin https://github.com/katherine91/Story.git
+8) git push -u origin main
+9) git rm --cached -r . - remove all files from staging area
