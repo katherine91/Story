@@ -7,3 +7,8 @@
 7) git remote add origin https://github.com/katherine91/Story.git
 8) git push -u origin main
 9) git rm --cached -r . - remove all files from staging area
+10) git clone project_url
+11) git branch branch_name - create branch
+12) git branch - list branches
+12) git checkout other_branch - switching to other branch
+13) git merge other_branch - insert changes from other branch
